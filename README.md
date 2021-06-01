@@ -1,6 +1,6 @@
 # Basic-GPGPU-CUDA
 
-This is a step-by-step guide for beginners towards GPGPU structure and CUDA programming. Along with my own explanation, I also references some great documents and tutorials so you can discover yourself.
+This is a step-by-step guide for beginners towards GPGPU structure and CUDA programming. Along with my own explanation, I also referenced some great documents and tutorials so you can discover yourself.
 
 Some concepts are mentioned and explained in this tutorial, including:
 
@@ -12,7 +12,7 @@ Some concepts are mentioned and explained in this tutorial, including:
 
 ### Prerequisites
 
-> Basic understanding of C/C++ is enough to start the tutorial.
+* Basic understanding of C/C++ is enough to start the tutorial.
 
 ### Personal notes
 
