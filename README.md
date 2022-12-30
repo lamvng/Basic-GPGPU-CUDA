@@ -14,7 +14,6 @@ Some concepts are mentioned and explained in this tutorial, including:
 
 * Basic understanding of C/C++ is enough to start the tutorial.
 
-### Personal notes
+### Credits
 
->>
-This tutorial is in fact my personal notes from the course "Programming with GPGPU" by Dr. Pierre-François Bonnefoi. The course (in French only) is available [here](https://p-fb.net/master-1/gpgpu.html). On a personal side, I admired his effort and passion to deliver huge course contents and detailed instruction.
+This tutorial is in fact my personal notes from the course "Programming with GPGPU" by Dr. Pierre-François Bonnefoi, Université de Limoges. The course (in French only) is available [here](https://p-fb.net/). On a personal side, I admired his effort and passion to deliver huge course contents and detailed instruction.
